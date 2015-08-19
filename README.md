@@ -33,4 +33,4 @@ As an Analyst I need a highly reliable update of tweets on a query term as frequ
 17. Submit the work via GitHub
 18. Do not fork this repository for your answer
 19. If you think this is going to take a significant amount of time, don't do this.
-20. Do not assume that you should only use tools/services that can run within your idea.   The preference is to hear what production level tools/services you would recommend for us to use.
+20. Do not assume that you should only use tools/services that can run within your IDE.   The preference is to hear what production level tools/services you would recommend.
