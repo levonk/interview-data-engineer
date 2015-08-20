@@ -3,9 +3,9 @@
 ## Background
 This is an inteview screening.   The desire is to understand how you approach the problem.   It is delibritely light on specifics as the intention is to see how the interviewee would solution.  We already have the below process in production.   The intention is to:
 * Provide clarity on the simpler type of request that the data engineer may work on
-* Save time on the part of the interviee
+* Save time on the part of the interviewee
 * Save time on the part of the interviewer
-* Provide the interviewee the development enviornment that they may be comforatable with
+* Permit the interviewee to use the development enviornment that they may be comforatable with
 * Provide a rapid way to assess the easily quantifiable tactical skills of the intervieee
 * Provide a normalized understanding of the candidates coding skills
 
