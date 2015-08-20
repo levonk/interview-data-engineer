@@ -2,7 +2,7 @@
 
 ## Background
 This is an inteview screening.   The desire is to understand how you approach the problem.   It is delibritely light on specifics as the intention is to see how the interviewee would solution.  We already have the below process in production.   The intention is to:
-* Provide clarity on the simpler type of request that the data engineer may work on
+* Provide clarity on the more simple types of requests that the data engineer may work on
 * Save time on the part of the interviewee
 * Save time on the part of the interviewer
 * Permit the interviewee to use the development enviornment that they may be comforatable with
@@ -10,9 +10,9 @@ This is an inteview screening.   The desire is to understand how you approach th
 * Provide a normalized understanding of the candidates coding skills
 
 ## Guidelines
-* If you recieved this, or any details about this, prior to it being assigned to you then please notify the interviewer before starting.
-* Do not fork this repository for your answer
-* If you think this is going to take a significant amount of time, don't do this.
+* If you recieved this, or any details about this, prior to it being assigned to you from a full time employee representative of the company you're interviewing at then please notify the interviewer before starting.   Agents of the company (consultants, recruiters, etc...) are not considered full time employees.
+* Do not fork this repository if you will be providing an answer.
+* If you think this is going to take a significant amount of your time, don't do this.
 * Do not assume that you should only use tools/services that can run within your IDE.   The preference is to identify what production level tools/libraries/services you would recommend.
 * The team currently uses Eclipse and IntelliJ
 * Submit the work via GitHub
@@ -21,7 +21,7 @@ This is an inteview screening.   The desire is to understand how you approach th
 As an Interviewer I need a highly reliable update of tweets on a query term as frequently as possible with parts of speech tagging so I may have a comparable code sample.
 
 ## Acceptance Criteria:
-1. The interviewee should select an interesting query term
+1. The interviewee should select an interesting query term and parameterize it.
 2. The process is highly **reliable**, comment/code in the reliability techniques
 3. The process is highly **scalable**, comment/code to how the process is scalable
 4. The data is **extremly fresh**, comment on how it will be kept fresh
