@@ -9,9 +9,16 @@ This is an inteview screening.   The desire is to understand how you approach th
 * Provide a rapid way to assess the easily quantifiable tactical skills of the intervieee
 * Provide a normalized understanding of the candidates coding skills
 
+## Guidelines
+* If you recieved this, or any details about this, prior to it being assigned to you then please notify the interviewer before starting.
+* Do not fork this repository for your answer
+* If you think this is going to take a significant amount of time, don't do this.
+* Do not assume that you should only use tools/services that can run within your IDE.   The preference is to identify what production level tools/libraries/services you would recommend.
+* The team currently uses Eclipse and IntelliJ
+* Submit the work via GitHub
 
-## User Story:
-As an Analyst I need a highly reliable update of tweets on a query term as frequently as possible with parts of speech tagging so I may assess the interviewee.
+## Epic:
+As an Interviewer I need a highly reliable update of tweets on a query term as frequently as possible with parts of speech tagging so I may have a comparable code sample.
 
 ## Acceptance Criteria:
 1. The interviewee should select an interesting query term
@@ -29,8 +36,3 @@ As an Analyst I need a highly reliable update of tweets on a query term as frequ
 13. Put the data in **S3**
 14. Create the table in **Hive**
 15. This project is to be maintained in a **team enviornment** use techniques that are conducisve to it.
-16. The team currently uses Eclipse and IntelliJ
-17. Submit the work via GitHub
-18. Do not fork this repository for your answer
-19. If you think this is going to take a significant amount of time, don't do this.
-20. Do not assume that you should only use tools/services that can run within your IDE.   The preference is to hear what production level tools/services you would recommend.
