@@ -1,7 +1,9 @@
 # interview-data-engineer
 
 ## Background
-This is an inteview screening.   The desire is to understand how you approach the problem.   It is delibritely light on specifics as the intention is to see how the interviewee would solution.  We already have the below process in production.   The intention is to:
+Congratulations you've gotten past the recruiter, the resume screen and phone screen.   Not many people do!
+
+The desire is to understand how you approach the problem.   It is delibritely light on specifics as the intention is to see how the interviewee would solution.  We already have the below process in production.   The intention is to:
 * Provide clarity on the more simple types of requests that the data engineer may work on
 * Save time on the part of the interviewee
 * Save time on the part of the interviewer
@@ -16,6 +18,7 @@ This is an inteview screening.   The desire is to understand how you approach th
 * Do not assume that you should only use tools/services that can run within your IDE.   The preference is to identify what production level tools/libraries/services you would recommend.
 * The team currently uses Eclipse and IntelliJ
 * Submit the work via GitHub
+* If there are any improvements that you would make to this Epic around the requirements or your implementation, feel free to make them or add them via a Readme or inline comments.
 
 ## Epic:
 As an Interviewer I need a highly reliable update of tweets on a query term as frequently as possible with parts of speech tagging so I may have a comparable code sample.
@@ -36,3 +39,4 @@ As an Interviewer I need a highly reliable update of tweets on a query term as f
 13. Put the data in **S3**
 14. Create the table in **Hive**
 15. This project is to be maintained in a **team enviornment** use techniques that are conducisve to it.
+
