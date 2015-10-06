@@ -41,4 +41,4 @@ As an Interviewer I need a highly reliable update of tweets on a query term as f
 15. This project is to be maintained in a **team environment** use techniques that are conducive to it.
 
 ## Next steps
-Your recruiter will contact you with the next steps.   Thanks for your continued interest in joining us!
+Your recruiter will contact you with the next steps.   We're also always interested in feedback, so please let your recruiter know if you have any thoughts regarding the process or the question.   Thanks for your continued interest in joining us!
